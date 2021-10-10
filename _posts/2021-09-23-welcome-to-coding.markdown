@@ -12,7 +12,8 @@ categories: lesson activity
 ## Activity: Hour of Code
 
 1. Find one partner or go it alone.
-2. Navigate to [https://code.org/hourofcode/overview](https://code.org/hourofcode/overview){:target="_blank"}.
+2. Navigate to 
+[https://code.org/hourofcode/overview](https://code.org/hourofcode/overview){:target="_blank"}.
 3. Choose “Dance Party” or “Minecraft” and select "Go".
 
 ## Resources

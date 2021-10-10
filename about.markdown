@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**The Creative Code Club for Games and Art** is a place were students ages
+9 to 14 can learn to code and have fun creating code on computers.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Each week will have a new post which includes a lesson, activity, and
+additional resources that may be helpful. The lessons are intended to be viewed
+in person but I include related videos in case you missed the in-person lesson.

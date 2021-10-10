@@ -21,7 +21,7 @@
 title: Creative Code Club
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Home page for the Creative Code Club for Games and Art.
+  Learn to code and have fun creating on computers.
 baseurl: "/code-club" # the subpath of your site, e.g. /blog
 url: "https://cphurley82.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
