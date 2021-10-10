@@ -5,7 +5,7 @@ date:   2021-09-23 01:00:00 -0700
 categories: lesson activity
 ---
 
-## Presentation
+## Lesson
 
 [Welcome to Coding!](/code-club/assets/pdf/welcome-to-coding.pdf){:target="_blank"}
 
@@ -15,7 +15,7 @@ categories: lesson activity
 2. Navigate to [https://code.org/hourofcode/overview](https://code.org/hourofcode/overview){:target="_blank"}.
 3. Choose “Dance Party” or “Minecraft” and select "Go".
 
-## More Resources
+## Resources
 
 ### Videos
 
