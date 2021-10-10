@@ -22,8 +22,8 @@ title: Creative Code Club
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Home page for the Creative Code Club for Games and Art.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cphurley82.github.io/code-club" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/code-club" # the subpath of your site, e.g. /blog
+url: "https://cphurley82.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
