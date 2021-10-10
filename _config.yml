@@ -28,7 +28,7 @@ url: "https://cphurley82.github.io" # the base hostname & protocol for your site
 # github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -51,3 +51,13 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "assets/pdf"
+    values:
+      image: false
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
