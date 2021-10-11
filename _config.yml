@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Learn to code and have fun creating on computers.
 baseurl: "/code-club" # the subpath of your site, e.g. /blog
 url: "https://cphurley82.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-markdown: kramdown
+markdown: kramdown # Use kramdown markdown processor.
 
 # Build settings
 theme: minima
@@ -50,6 +50,7 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - .vscode/
 
 defaults:
   - scope:
