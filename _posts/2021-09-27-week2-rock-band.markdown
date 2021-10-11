@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2"
+title:  "Week 2: Rock Band"
 date:   2021-09-27 01:00:00 -0700
 categories: lesson activity
 ---
