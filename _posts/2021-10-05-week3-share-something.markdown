@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 3: Share Something"
 date:   2021-10-05 01:00:00 -0700
-categories: lesson activity
+categories: [lesson, activity]
 ---
 
 ## Lesson

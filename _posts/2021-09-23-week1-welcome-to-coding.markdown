@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Coding!"
 date:   2021-09-23 01:00:00 -0700
-categories: lesson activity
+categories: [lesson, activity]
 ---
 
 ## Lesson

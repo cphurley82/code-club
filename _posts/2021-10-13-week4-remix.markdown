@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 4: Remix"
 date:   2021-10-10 09:17:00 -0700
-categories: lesson activity
+categories: [lesson, activity]
 ---
 
 ## Lesson
