@@ -22,10 +22,13 @@ categories: lesson activity
     * Select the green "Remix" button.
     * Change the code.
     * Select the orange "Share" button.
-    * Select "+ Add to Studio" in the lower right, then select "Week 4 Remixes!" and select "Okay".
+    * Write about what you changed in the "Notes and Credits" section on the 
+      project page.
+    * Select "+ Add to Studio" in the lower right, then select "Week 4 
+      Remixes!" and select "Okay".
 
 ## Resources
 
 ### Videos
 
-[Remixing a Scratch Project](https://www.youtube.com/watch?v=_NY8SOengc0){:target="_blank"}
+[Scratch Tips - Remixing a Project](https://www.youtube.com/watch?v=_NY8SOengc0){:target="_blank"}
