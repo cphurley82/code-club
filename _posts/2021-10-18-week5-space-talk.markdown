@@ -10,7 +10,7 @@ categories: [lesson, activity]
 1. Scratch of the week!
 2. [Code Club Paths](https://projects.raspberrypi.org/en/paths){:target="_blank"} 
 
-## Activity: 
+## Activity
 
 1. [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}
     * Emotes
