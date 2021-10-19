@@ -7,13 +7,14 @@ categories: [lesson, activity]
 
 ## Lesson
 
-1. [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}
-2. Using Multiple Windows.
+1. Scratch of the week!
+2. [Code Club Paths](https://projects.raspberrypi.org/en/paths){:target="_blank"} 
 
 ## Activity: 
 
-1. TBD
+1. [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}
+    * Emotes
+    * Animation by switching costumes
+    * Paint editor
+    * Quiz!
 
-## Resources
-
-### Videos
