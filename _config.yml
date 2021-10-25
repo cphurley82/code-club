@@ -51,6 +51,7 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
   - .vscode/
+  - tools/
 
 defaults:
   - scope:
