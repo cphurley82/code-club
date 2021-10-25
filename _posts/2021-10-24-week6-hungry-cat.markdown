@@ -7,7 +7,7 @@ categories: [lesson, activity]
 
 ## Lesson
 
-1. How to make [Hungry Cat](https://scratch.mit.edu/projects/250538809/){:target="_blank"}
+1. How to make [Hungry Cat](https://scratch.mit.edu/projects/250538809/){:target="_blank"}.
 
 ## Activity
 
