@@ -11,6 +11,7 @@ categories: [lesson, activity]
 2. Types of block shapes in Scratch:
     * [Hat blocks](https://en.scratch-wiki.info/wiki/Hat_Block){:target="_blank"} start every script.
     * [Stack blocks](https://en.scratch-wiki.info/wiki/Stack_Block){:target="_blank"} perform the main commands.
+    * [Boolean blocks](https://en.scratch-wiki.info/wiki/Boolean_Block){:target="_blank"} report *true* or *false*.
     * [Reporter blocks](https://en.scratch-wiki.info/wiki/Reporter_Block){:target="_blank"} have the values.
     * [C blocks](https://en.scratch-wiki.info/wiki/C_Block){:target="_blank"} have the values.
     * [Cap blocks](https://en.scratch-wiki.info/wiki/Cap_Block){:target="_blank"} end scripts.
