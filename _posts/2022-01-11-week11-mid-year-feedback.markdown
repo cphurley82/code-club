@@ -11,7 +11,7 @@ categories: [feedback, activity]
 2. Questions with red * are required.
 3. Feedback is anonymous but you can choose to provide your name if you like.
 
-## Activity: Complete The Feedback FOrm
+## Activity: Complete The Feedback Form
 
 1. Go Here: [https://forms.gle/K6UWTEr5kn6ySwGZ6](https://forms.gle/K6UWTEr5kn6ySwGZ6){:target="_blank"}
 2. Fill it out.
