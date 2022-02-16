@@ -7,13 +7,14 @@ categories: [project, activity]
 
 ## Presentation: About The BIG Project
 
-1. Goal: Work in teams to create a big Scratch experience like a game, interctive story, tool, etc.
-2. The steps:
-    * Idea
-    * Pitch: Two minute presentation, two minutes for questions.
-    * Team formation... Roles: Art, Coding, Audio, Design
-    * 4 weeks of development time.
-    * Demo day!
+Goal: Work in teams to create a big Scratch experience like a game, interctive story, tool, etc.
+
+The process:
+1. Idea - Today
+2. Pitch: Two minute presentation, two minutes for questions. - Today
+3. Team formation... Roles: Art, Coding, Audio, Design - Next week
+5. 3-4 weeks of development time.
+6. Demo day! - About 5 weeks from now.
 
 ## Activity: Prepare Your Pitch
 
