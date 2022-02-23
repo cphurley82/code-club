@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 14: The BIG Project"
+title:  "Week 14: Pitch and Team Formation"
 date:   2022-02-22 01:00:00 -0700
 categories: [project, activity]
 ---
@@ -19,7 +19,7 @@ Today:
     * Determine roles: Art, Coding, Audio, Design.
 3. Get to work.
 
-## Activity: Create team charter.
+## Activity: Create team charter
 
 1. After forming your team write down:
     * Team name.
