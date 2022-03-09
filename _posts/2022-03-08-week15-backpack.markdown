@@ -20,4 +20,4 @@ categories: [project, activity]
 
 ### Videos
 
-[How to Use the Backpack in Scratch | Tutorial](https://www.youtube.com/watch?v=AuolBPY8qdc){:target="_blank"}
+[How to Use the Backpack in Scratch](https://www.youtube.com/watch?v=AuolBPY8qdc){:target="_blank"}
