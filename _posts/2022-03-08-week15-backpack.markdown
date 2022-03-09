@@ -7,11 +7,13 @@ categories: [project, activity]
 
 ## Presentation: Backpack
 
-1. Using the Scratch [Backpack](https://en.scratch-wiki.info/wiki/Backpack).
+1. Using the Scratch [Backpack](https://en.scratch-wiki.info/wiki/Backpack){:target="_blank"}
+.
 
 ## Activity: Try it
 
-1. Try [Using the Scratch Backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack).
+1. Try [Using the Scratch Backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack){:target="_blank"}
+.
 2. Continue working on you projects.
  
 ## Resources
