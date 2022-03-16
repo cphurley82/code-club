@@ -7,10 +7,10 @@ categories: [project, activity]
 
 ## Presentation: Add Effects
 
-1. [Tutorial](hhttps://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank"}: Add Effects.
+1. [Tutorial](https://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank"}: Add Effects.
 
 ## Activity: Try it
 
-1. Follow the Add Effects [Tutorial](hhttps://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank"}.
+1. Follow the Add Effects [Tutorial](https://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank"}.
 2. Add some special effects to your project.
 3. Show Chris your special effect for a ticket.
