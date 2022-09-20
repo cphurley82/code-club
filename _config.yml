@@ -62,3 +62,6 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+school-year-tags:
+  - school-year-2022-2023
