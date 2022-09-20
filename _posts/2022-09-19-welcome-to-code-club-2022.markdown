@@ -7,11 +7,10 @@ categories: [school-year-2022-2023, lesson, activity]
 
 ## Lesson
 
-[Welcome to Coding!](/code-club/assets/pdf/welcome-to-coding.pdf){:target="_blank"}
+[Welcome to Coding!](/code-club/assets/pdf/welcome-to-code-club-2022.pdf){:target="_blank"}
 
 ## Activity: Hour of Code
 
-1. Find one partner or go it alone.
 2. Navigate to 
 [https://code.org/hourofcode/overview](https://code.org/hourofcode/overview){:target="_blank"}.
 3. Choose “Dance Party” or “Minecraft” and select "Go".
