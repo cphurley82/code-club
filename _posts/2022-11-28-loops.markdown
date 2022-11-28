@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Loops"
+date:   2022-11-28 01:00:00 -0700
+categories: [lesson, activity]
+---
+
+## Lesson: Loops
+
+1. What is a loop?
+    * A loop is a way to repeat a block of code.
+    * Computers are fast, so we can repeat a block of code as many times as we want.
+    * Most things we do with computers are done in loops.
+2. Types of loops in Scratch:
+    * [Repeat () block](https://en.scratch-wiki.info/wiki/Repeat_()_(block)){:target="_blank"} for counting.
+    * [Forever block](https://en.scratch-wiki.info/wiki/Forever_(block)){:target="_blank"} never stops never stoping.
+    * [Repeat Unitl () block](https://en.scratch-wiki.info/wiki/Repeat_Until_()_(block)){:target="_blank"} for when you want to repeat until a condition is met.
+
+## Activity: Catch the bus
+
+1. Optional: Find a partner for pair programming.
+2. Follow the directions to complete your own [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus/0){:target="_blank"} project.
+    * [https://projects.raspberrypi.org/en/projects/catch-the-bus/0](https://projects.raspberrypi.org/en/projects/catch-the-bus/0){:target="_blank"}
+3. Post your version of Catch the Bus to the class studio: "Catch the bus".
+
+## Resources
+
+### Videos
+
+[MIT Scratch - Introduction to Loops](https://www.youtube.com/watch?v=mkLlb9B_KRM){:target="_blank"}
