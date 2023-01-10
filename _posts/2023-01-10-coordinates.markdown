@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Week 10: Coordinates"
-date:   2022-01-10 01:00:00 -0700
+title:  "Coordinates"
+date:   2023-01-10 01:00:00 -0700
 categories: [school-year-2022-2023, lesson, activity]
 ---
 
