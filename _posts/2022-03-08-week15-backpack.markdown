@@ -12,10 +12,9 @@ categories: [project, activity]
 
 ## Activity: Try it
 
-1. Try [Using the Scratch Backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack){:target="_blank"}
-.
+1. Try [Using the Scratch Backpack](https://projects.raspberrypi.org/en/projects/scratch-backpack){:target="_blank"}.
 2. Continue working on you projects.
- 
+
 ## Resources
 
 ### Videos
