@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graphic Effects"
-date:   2023-02-07 01:00:00 -0700
+date:   2023-02-06 01:00:00 -0700
 categories: [school-year-2022-2023, lesson, activity]
 ---
 
