@@ -22,6 +22,6 @@ categories: [school-year-2022-2023, lesson, activity]
 
 ## Resources
 
-[Scratch Functions | Make a Block using My Blocks in Scratch 3.0](https://www.youtube.com/watch?v=Q0JecvzwyIg){:target="_blank"}
+[Scratch Functions: Make a Block using My Blocks in Scratch 3.0](https://www.youtube.com/watch?v=Q0JecvzwyIg){:target="_blank"}
 
 [Learn Python Functions - Quick Python Project For Beginners](https://www.youtube.com/watch?v=aftw0WX4oCc){:target="_blank"}
