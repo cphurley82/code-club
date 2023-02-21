@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week 17: Cloning"
+date:   2023-02-20 01:00:00 -0700
+categories: [school-year-2022-2023,lesson, activity]
+---
+
+## Lesson: Cloning
+
+1. Scratch [Cloning](https://en.scratch-wiki.info/wiki/Cloning){:target="_blank"}
+
+## Activity: Clone Something
+
+1. Make a Scratch project using the three cloning blocks:
+    * create clone of ...
+    * when I start as a clone
+    * delete this clone
+2. Post your creation in the "Cloned" studio.
+
+## Resources
+
+### Videos
+
+[Create CLONES in Scratch](https://www.youtube.com/watch?v=ihaCsZq3nEg){:target="_blank"}
