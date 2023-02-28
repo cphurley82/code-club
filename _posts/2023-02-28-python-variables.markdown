@@ -27,7 +27,7 @@ categories: [school-year-2022-2023, advanced, lesson, activity]
 
 ### Videos
 
-[Python Variables - Python Tutorial for Beginners with Examples | Mosh](https://www.youtube.com/watch?v=cQT33yu9pY8){:target="_blank"}
+[Python Variables - Python Tutorial for Beginners with Examples](https://www.youtube.com/watch?v=cQT33yu9pY8){:target="_blank"}
 
 ### Websites
 
