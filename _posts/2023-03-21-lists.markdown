@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Lists"
+date:   2023-03-20 01:00:00 -0700
+categories: [school-year-2022-2023, lesson, activity]
+---
+
+## Lesson: Lists (aka Arrays)
+
+1. Scratch [Lists](https://en.scratch-wiki.info/wiki/Lists){:target="_blank"}
+2. Key parts of a list
+    * Numbers (Index)
+    * Items (Values/Data)
+    * Size
+
+## Activity: Simon Game
+
+1. Make your own
+    [Simon game](https://scratch.mit.edu/projects/823175737/){:target="_blank"}
+    using lists.
+2. Post your remix to the class studio: "Lists".
+
+## Resources
+
+### Videos
+
+[How to use Lists in scratch](https://www.youtube.com/watch?v=sF0g1b_Xy7I){:target="_blank"}
