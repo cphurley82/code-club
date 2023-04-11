@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lists"
+title:  "Next Steps with Scratch"
 date:   2023-04-11 01:00:00 -0700
 categories: [school-year-2022-2023, lesson, activity]
 ---
