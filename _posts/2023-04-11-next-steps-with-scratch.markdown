@@ -36,4 +36,4 @@ categories: [school-year-2022-2023, lesson, activity]
 
 1. [YouTube: griffpatch](https://www.youtube.com/@griffpatch){:target="_blank"}
     has a lot of good videos on advanced Scratch topics.
-    * [Cloud Game Tutorial | Part 1 | The Basics](https://www.youtube.com/watch?v=-KoHaz7ZPvo){:target="_blank"}.
+    * [Cloud Game Tutorial Part 1 The Basics](https://www.youtube.com/watch?v=-KoHaz7ZPvo){:target="_blank"}.
